@@ -1,4 +1,4 @@
-// increase/decrease debugSize & messageSize to control message size
+// increase/decrease debugSize & messageSize to control message size edited comment for test
 var debugSize = 1000;
 var messageSize = 1000;
 var message = "Test Message:  to be large size, as  sample line so that we can duplicate to reach 100 per line <br>"
